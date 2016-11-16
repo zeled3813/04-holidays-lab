@@ -31,7 +31,7 @@ holiday_supplies = {
 
 Write your methods in `lib/holiday.rb`; use the comments in each method as guides.
 
-* Write a method that returns the second supply for the Fourth of July. For eg:
+* Write a method that returns the second supply for the Fourth of July. For example:
 
 ```ruby
 def second_supply_for_fourth_of_july(holiday_supplies)
